@@ -1,0 +1,20 @@
+{
+	"name": "PUGB-GUIDE",
+	"short_name": "PUBG",
+    "icons": [
+        {
+            "src": "/pwa/images/icon192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa/images/icon512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "black",
+	"theme_color": "#161616"
+}
